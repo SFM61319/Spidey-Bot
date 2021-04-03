@@ -1,0 +1,35 @@
+{
+    "name": "spidey",
+    "version": "0.0.0",
+    "description": "An all-in-one Discord bot written in JavaScript",
+    "main": "src/bot.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SFM61319/Spidey-Bot.git"
+    },
+    "keywords": [
+        "discord",
+        "discordapp",
+        "bot",
+        "node",
+        "javascript",
+        "all-in-one",
+        "spidey"
+    ],
+    "author": "SFM61319",
+    "contributors": [],
+    "dependencies": {
+        "@discordjs/opus": "^0.5.0",
+        "discord.js": "^12.5.3",
+        "dotenv": "^8.2.0",
+        "opusscript": "^0.0.8"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SFM61319/Spidey-Bot/issues"
+    },
+    "homepage": "https://sfm61319.github.io/Spidey-Bot"
+}
