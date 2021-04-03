@@ -4,7 +4,8 @@
     "description": "An all-in-one Discord bot written in JavaScript",
     "main": "src/bot.js",
     "scripts": {
-        "test": "node ."
+        "test": "node .",
+        "start": "node ."
     },
     "repository": {
         "type": "git",
